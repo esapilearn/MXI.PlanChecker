@@ -14,7 +14,7 @@ using System.Windows.Controls;
 
 namespace MXI.PlanChecker
 {
-    /// <summary>
+    /// <summary>This is a test
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App
